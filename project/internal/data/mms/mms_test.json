@@ -1,0 +1,33 @@
+[
+  {
+    "country": "U5",
+    "provider": "Topol",
+    "bandwidth": "41",
+    "response_time": "910"
+  },
+  {
+    "country": "US",
+    "provider": "Rond",
+    "bandwidth": "36",
+    "response_time": "1576"
+  },
+  {
+    "country": "GB",
+    "provider": "kilty",
+    "bandwidth": "28",
+    "response_time": "495"
+  },
+  {
+    "country": "F2",
+    "provider": "Topolo",
+    "bandwidth": "9",
+    "response_time": "484"
+  },
+  {
+    "country": "BL",
+    "provider": "Kildy",
+    "bandwidth": "68",
+    "response_time": "1594"
+  }
+]
+

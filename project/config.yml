@@ -1,0 +1,19 @@
+---
+
+listen:
+  bind_ip: "127.0.0.1"
+  port: "8282"
+data_path:
+  sms: "../../../emulator/sms.data"
+  mms:
+    url: "http://127.0.0.1:8383/mms"
+  email: "../../../emulator/email.data"
+  billing: "../../../emulator/billing.data"
+  voice_call: "../../../emulator/voice.data"
+  support:
+    url: "http://127.0.0.1:8383/support"
+  incidents:
+    url: "http://127.0.0.1:8383/accendent"
+cache_time: 30
+
+
